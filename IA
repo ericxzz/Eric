@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto da IA na Escola</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>O Impacto da Inteligência Artificial na Educação</h1>
+        <p>Como a IA está transformando o ambiente escolar</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>1. Personalização do Ensino</h2>
+            <p>
+                A IA permite adaptar o conteúdo de acordo com o nível e estilo de aprendizagem de cada aluno, 
+                oferecendo trilhas personalizadas que aumentam o engajamento e a compreensão.
+            </p>
+        </section>
+
+        <section>
+            <h2>2. Automação de Tarefas</h2>
+            <p>
+                Professores podem automatizar correções de provas, geração de relatórios e até atendimentos simples, 
+                economizando tempo para focar no ensino.
+            </p>
+        </section>
+
+        <section>
+            <h2>3. Desafios Éticos</h2>
+            <p>
+                O uso da IA levanta questões sobre privacidade, dependência tecnológica e desigualdade no acesso 
+                a essas ferramentas nas escolas públicas e privadas.
+            </p>
+        </section>
+
+        <button onclick="mostrarMensagem()">Saiba mais</button>
+        <p id="mensagem"></p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Projeto Educacional sobre IA</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
